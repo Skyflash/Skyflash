@@ -8,6 +8,6 @@ Nel tempo libero seguo il mondo #crypto, sia per quanto riguarda i token (#HUDI 
 
 📫 [c.castellari@gmail.com](c.castellari@gmail.com) <br />
 🌎 [cristiancastellari.it](https://cristiancastellari.it)<br />
-🔥 [mastodon.uno/@cristiancastellari](https://mastodon.uno/@cristiancastellari "Mastodon" "rel='me'")<br />
+🔥 [mastodon.uno/@cristiancastellari](https://mastodon.uno/@cristiancastellari "Mastodon" rel='me')<br />
 🕹️ <a rel="me" href="https://livellosegreto.it/@cristian">livellosegreto.it/@cristian</a> <br />
 👔 [LinkedIn](https://www.linkedin.com/in/cristiancastellari/)
