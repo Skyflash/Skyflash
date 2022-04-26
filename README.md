@@ -6,5 +6,5 @@ Nel tempo libero seguo il mondo #crypto, sia per quanto riguarda i token (#HUDI 
 
 ### Contatti
 
-📫 [c.castellari@gmail.com](c.castellari@gmail.com)
+📫 [c.castellari@gmail.com](c.castellari@gmail.com) <br />
 🔥 <a rel="me" href="https://mastodon.uno/@cristiancastellari">@cristiancastellari@mastodon.uno</a>
