@@ -1,6 +1,6 @@
 # Ciao, sono Cristian!
 
-Nella vita sono un padre, marito ed un informatico appassionato di videogiochi, Formula 1 cucina.
+Nella vita sono un padre, marito ed un informatico appassionato di videogiochi, Formula 1 e cucina.
 
 Nel tempo libero seguo il mondo #crypto, sia per quanto riguarda i token (#HUDI in primis) che per quanto riguarda le tecnologie come #Ledger ed i vari #Wallet
 
