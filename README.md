@@ -19,6 +19,7 @@ Vuoi collaborare, parlare di tech o semplicemente dirmi quale sia il tuo film/gi
 [![Blog](https://img.shields.io/badge/Blog-cristiancastellari.it-blue?style=flat&logo=google-chrome)](https://cristiancastellari.it)
 [![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-donate-FFDD00?style=flat&logo=buymeacoffee&logoColor=brown)](https://buymeacoffee.com/cristiancastellari)
 [![Mastodon](https://img.shields.io/badge/Mastodon-%40cristiancastellari-6364FF?style=flat&logo=mastodon)](https://mastodon.uno/@cristiancastellari)
+[![Bluesky](https://img.shields.io/badge/Bluesky-%40cristiancastellari-1185FE?style=flat&logo=bluesky)](https://bsky.app/profile/cristiancastellari.bsky.social)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-cristiancastellari-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/cristiancastellari)
 
 ---
